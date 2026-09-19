@@ -1,0 +1,12 @@
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Sensitive Local Parameter Files
+*.parameters.json
+*.env
